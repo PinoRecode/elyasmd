@@ -3,10 +3,10 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:Sy;Bot;;;
-FN: Elyas
-item.ORG: ELYAS GANTENG
-item1.TEL;waid=6285643354073:6285643354073@s.whatsapp.net
-item1.X-ABLabel:No Wa Gw gyg
+FN: Pino
+item.ORG: PINO MD
+item1.TEL;waid=628895377665:628895377665@s.whatsapp.net
+item1.X-ABLabel:No Wa Gw YGY
 item2.EMAIL;type=INTERNET:CIE MAU STALKING GW😅
 item2.X-ABLabel:Email
 item3.ADR:;;🇮🇩INDONESIA;;;;
