@@ -11,7 +11,7 @@ let handler = async (m, { conn }) => {
 handler.customPrefix = /^cita ?cita$/i
 handler.command = new RegExp
 handler.tags = ['fun']
-handler.limit = true
+handler.limit = false
 handler.mods = false 
 handler.premium = false
 handler.group = false 
