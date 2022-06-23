@@ -27,21 +27,21 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'FWf7jwTE',
-  'https://api.xteam.xyz': '9287183216dd1eb3',
+  'https://melcanz.com': 'elaina',
+  'https://api.xteam.xyz': 'apikeyaine',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
-  'https://zekais-api.herokuapp.com': 'f4nczIeU',
-  'https://api.lolhuman.xyz': 'ba45c79d85fbd1c42101c6df',
+  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://api.lolhuman.xyz': 'Deffbotz',
 }
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
+global.packname = 'Nomer BOT:'
 global.author = `628895377665`
 global.caliphapi = 'ELYAS_TZY'
 
