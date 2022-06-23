@@ -3,7 +3,7 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let fetch = require('node-fetch')
 let handler = async (m, {text}) => {
-  let res = await fetch('https://x-restapi.herokuapp.com/api/random-cehor?apikey=BETA')
+  let res = await fetch('https://docs-pinomd.herokuapp.com/api/ceritahantu')
   if (!res.ok) throw await res.text()
   let json = await res.json()
   if (!json.thumb) throw json
