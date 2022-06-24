@@ -15,5 +15,6 @@ m.reply(result)
 conn.sendFile(m.chat, res[0].link, res[0].nama, null, m, false, {asDocument:true, mimetype:res[0].mime})
 }
 handler.command = ['mediafire']
+handler.tags = ['downloader']
 
 module.exports = handler
