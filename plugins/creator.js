@@ -26,7 +26,7 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-await conn.reply(m.chat, "itu Nomor Orang Ganteng", sentMsg)}
+await conn.reply(m.chat, "Contact Owner On Instagram, Soalnya Gak Sering On Whatsapp.", sentMsg)}
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
 
